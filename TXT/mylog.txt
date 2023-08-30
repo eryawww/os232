@@ -6,3 +6,4 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode + Description List
 ZCZC W00 20 L00 Reading and set-up W00 github
+ZCZC W00 70 L10 Reading and taking note on Operating System Concepts, 10th Edition, 2018 page 1-39
