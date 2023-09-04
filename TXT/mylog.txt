@@ -8,3 +8,5 @@
 ZCZC W00 20 L00 Reading and set-up W00 github
 ZCZC W00 70 L10 Reading and taking note on Operating System Concepts, 10th Edition, 2018 (pages 1-39)
 ZCZC W00 70 L05 Reading and taking note on PPT Week 0 (all pages)
+ZCZC W00 20 L32 Watching youtube "The mind behind Linux | Linus Torvalds"
+ZCZC W00 200 L70 Exploring data science
