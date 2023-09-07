@@ -10,3 +10,5 @@ ZCZC W00 70 L10 Reading and taking note on Operating System Concepts, 10th Editi
 ZCZC W00 70 L05 Reading and taking note on PPT Week 0 (all pages)
 ZCZC W00 20 L32 Watching youtube "The mind behind Linux | Linus Torvalds"
 ZCZC W00 200 L70 Exploring data science
+ZCZC W01 240 L70 Exploring data science
+ZCZC W01 45 L11 Trying and fixing Debian on WSL, still doesn't work
