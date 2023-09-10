@@ -16,3 +16,7 @@ ZCZC W01 120 L11 Trying and understanding week 1 assignment
 ZCZC W01 20 L11 Trying ssh ssh-key, experimenting copying .ssh from root to user but doesn't work
 ZCZC W01 84 L11 Done quiz, assignment, and adding links
 ZCZC W01 60 L11 Watching reading assignment 'The Complete Linux Course: Beginner to Power User!'
+ZCZC W01 30 L11 Continuing watching 'The Complete Linux Course: Beginner to Power User!'
+ZCZC W01 10 L32 Watching 'Network Ports Explained' introducing netstat command
+ZCZC W01 73 L70 Doing Platform Based Programming Assignment
+ZCZC W01 60 L22 Trying, studying, and taking note of netstat command
