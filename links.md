@@ -13,3 +13,17 @@ LONG LIVE OPEN SOURCE!. Calming YouTube videos to promote awareness and support 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
 
 10 minutes video explaining A LOT about how networking does. What is the purpose of port number, what number assign for what purpose and how to check them in terminal.
+
+3. [Port Forwarding Explained](https://www.youtube.com/watch?v=2G1ueMDgwxw)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2G1ueMDgwxw" target="_blank"><img src="http://img.youtube.com/vi/2G1ueMDgwxw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
+
+10 minutes video explaining what and how port forwarding in a clear way. But it doesn't show the implementation.
+
+4. [SSH Tunneling - Local & Remote Port Forwarding](https://www.youtube.com/watch?v=N8f5zv9UUMI)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=N8f5zv9UUMI" target="_blank"><img src="http://img.youtube.com/vi/N8f5zv9UUMI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10"/></a>
+
+18 minutes video explaining SSH Tunneling. Explained in a visual way making it easy to understand. Include shell implementation. Best video about SSH Tunneling.
