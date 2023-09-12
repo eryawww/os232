@@ -22,3 +22,5 @@ ZCZC W01 73 L70 Doing Platform Based Programming Assignment
 ZCZC W01 60 L22 Trying, studying, and taking note of netstat command
 ZCZC W01 60 L22 Watching 'Port Forwarding Explained' youtube video
 ZCZC W01 20 L22 Watching 'SSH Tunneling - Local & Remote Port Forwarding' youtube video
+ZCZC W02 8 L22 Watching 'What is a Firewall?' youtube video
+ZCZC W02 15 L22 Watching 'Linux Firewall Tutorial | How to Configure Firewall Rules with UFW' youtube video
