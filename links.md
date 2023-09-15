@@ -39,3 +39,9 @@ Firewall explained in a visual way. Easy to understand in a short period of time
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=XtRXm4FFK7Q)" target="_blank"><img src="http://img.youtube.com/vi/XtRXm4FFK7Q/0.jpg" width="240" height="180" border="10"/></a>
 
 Firewall configuration explain in a practical way. Well explained in a short period of time.
+
+7. [Basic cURL Tutorial](https://www.youtube.com/watch?v=7XUibDYw4mc)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7XUibDYw4mc)" target="_blank"><img src="http://img.youtube.com/vi/7XUibDYw4mc/0.jpg" width="240" height="180" border="10"/></a>
+
+Curl implementation explain. Provice curl basic flag, usage and website for testing.
