@@ -51,3 +51,9 @@ Curl implementation explain. Provice curl basic flag, usage and website for test
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=DMGIlj7u7Eo)" target="_blank"><img src="http://img.youtube.com/vi/DMGIlj7u7Eo/0.jpg" width="240" height="180" border="10"/></a>
 
 GPG implementation shell explained in a 8 minutes video. Explained straightforwardly.
+
+9. [Bash Scripting Tutorial for Beginners](https://www.youtube.com/watch?v=tK9Oc6AEnR4)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tK9Oc6AEnR4)" target="_blank"><img src="http://img.youtube.com/vi/tK9Oc6AEnR4/0.jpg" width="240" height="180" border="10"/></a>
+
+Bash Scripting explained slowly, 50 minutes long video. You will have ability to write basic variable, arguments, comparison, conditional, arrays, loops, function, awk and set. The video explaining about the basic stuff, still hard to understand complex bash that cbkadal write.
