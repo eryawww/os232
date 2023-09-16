@@ -45,3 +45,9 @@ Firewall configuration explain in a practical way. Well explained in a short per
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=7XUibDYw4mc)" target="_blank"><img src="http://img.youtube.com/vi/7XUibDYw4mc/0.jpg" width="240" height="180" border="10"/></a>
 
 Curl implementation explain. Provice curl basic flag, usage and website for testing.
+
+8. [Basic File Encryption with GPG key pairs!](https://www.youtube.com/watch?v=DMGIlj7u7Eo)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DMGIlj7u7Eo)" target="_blank"><img src="http://img.youtube.com/vi/DMGIlj7u7Eo/0.jpg" width="240" height="180" border="10"/></a>
+
+GPG implementation shell explained in a 8 minutes video. Explained straightforwardly.
