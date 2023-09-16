@@ -24,3 +24,8 @@ ZCZC W01 60 L22 Watching 'Port Forwarding Explained' youtube video
 ZCZC W01 20 L22 Watching 'SSH Tunneling - Local & Remote Port Forwarding' youtube video
 ZCZC W02 8 L22 Watching 'What is a Firewall?' youtube video
 ZCZC W02 15 L22 Watching 'Linux Firewall Tutorial | How to Configure Firewall Rules with UFW' youtube video
+ZCZC W02 20 L12 Understanding GPG implementation encryption
+ZCZC W02 30 L22 Wondering why it only need 16 last bit, what are the purpose of the others
+ZCZC W02 13 L22 Watching 'Basic File Encryption with GPG key pairs!'
+ZCZC W02 4 L22 Watching 'How to encrypt files on Linux via terminal using GPG'
+ZCZC W02 120 L22 Following assignment, updating and pushing to github
