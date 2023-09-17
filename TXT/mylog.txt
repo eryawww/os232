@@ -30,3 +30,5 @@ ZCZC W02 13 L22 Watching 'Basic File Encryption with GPG key pairs!'
 ZCZC W02 4 L22 Watching 'How to encrypt files on Linux via terminal using GPG' youtube video
 ZCZC W02 120 L22 Following assignment, updating and pushing to github
 ZCZC W02 50 L22 Watching 'Bash Scripting Tutorial for Beginners' youtube video
+ZCZC W02 80 L22 Learning and solving bash problems in hackerrank
+ZCZC W02 30 L22 Doing Scele Scrap
