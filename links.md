@@ -57,3 +57,15 @@ GPG implementation shell explained in a 8 minutes video. Explained straightforwa
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=tK9Oc6AEnR4)" target="_blank"><img src="http://img.youtube.com/vi/tK9Oc6AEnR4/0.jpg" width="240" height="180" border="10"/></a>
 
 Bash Scripting explained slowly, 50 minutes long video. You will have ability to write basic variable, arguments, comparison, conditional, arrays, loops, function, awk and set. The video explaining about the basic stuff, still hard to understand complex bash that cbkadal write.
+
+9. [mounting and unmounting disks/partitions - Linux Command Line tutorial for forensics - 15](https://www.youtube.com/watch?v=F-a_BBAGfkE)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=F-a_BBAGfkE)" target="_blank"><img src="http://img.youtube.com/vi/F-a_BBAGfkE/0.jpg" width="240" height="180" border="10"/></a>
+
+Explain moount in a practival way. Provide information on how to use the command line environment in a Unix/Linux system to accomplish tasks such as imaging, and and archiving. Going through some option available in mount. Also explain `df` and `du` command.
+
+9. [Linux File System/Structure Explained!](https://www.youtube.com/watch?v=HbgzrKJvDRw)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=HbgzrKJvDRw)" target="_blank"><img src="http://img.youtube.com/vi/HbgzrKJvDRw/0.jpg" width="240" height="180" border="10"/></a>
+
+Linux File System explain a lot. Explain /bin /sbin /boot /cdrom /dev /etc /lib /lib32 /lib64 /mnt /media /opt /proc /root /run /snap/srv /sys /tmp /usr /var and /home in a simple and productive way.
