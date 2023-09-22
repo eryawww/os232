@@ -32,3 +32,6 @@ ZCZC W02 120 L22 Following assignment, updating and pushing to github
 ZCZC W02 50 L22 Watching 'Bash Scripting Tutorial for Beginners' youtube video
 ZCZC W02 80 L22 Learning and solving bash problems in hackerrank
 ZCZC W02 30 L22 Doing Scele Scrap
+ZCZC W03 180 L13 Doing, fixing, and understanding assignment
+ZCZC W03 18 L13 Watching "Linux File System/Structure Explained!" youtube video
+ZCZC W03 20 L13 Watching "mounting and unmounting disks/partitions - Linux Command Line tutorial for forensics - 15" youtube video
