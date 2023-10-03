@@ -69,3 +69,21 @@ Explain moount in a practival way. Provide information on how to use the command
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HbgzrKJvDRw)" target="_blank"><img src="http://img.youtube.com/vi/HbgzrKJvDRw/0.jpg" width="240" height="180" border="10"/></a>
 
 Linux File System explain a lot. Explain /bin /sbin /boot /cdrom /dev /etc /lib /lib32 /lib64 /mnt /media /opt /proc /root /run /snap/srv /sys /tmp /usr /var and /home in a simple and productive way.
+
+10. [Linux Crash Course - Understanding Memory and Swap Usage](https://www.youtube.com/watch?v=XTMyJ5l0GLg)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=XTMyJ5l0GLg)" target="_blank"><img src="http://img.youtube.com/vi/XTMyJ5l0GLg/0.jpg" width="240" height="180" border="10"/></a>
+
+20 minutes video explaining memory management scheme and implementation in linux. Mainly explaining free and swap.
+
+11. [Processes in Linux/Unix](https://www.youtube.com/watch?v=0QuON6k2z0g)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=0QuON6k2z0g)" target="_blank"><img src="http://img.youtube.com/vi/0QuON6k2z0g/0.jpg" width="240" height="180" border="10"/></a>
+
+Short 8 minutes video explaining pid and seeing user who run the process.
+
+12. [Kill command in Linux with examples | How to Use Linux Kill Command](https://www.youtube.com/watch?v=-Lqai0oSpNU)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-Lqai0oSpNU)" target="_blank"><img src="http://img.youtube.com/vi/-Lqai0oSpNU/0.jpg" width="240" height="180" border="10"/></a>
+
+short 5 minutes video explaining the implementation of kill command to kill process in linux.
