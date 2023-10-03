@@ -35,3 +35,7 @@ ZCZC W02 30 L22 Doing Scele Scrap
 ZCZC W03 180 L13 Doing, fixing, and understanding assignment
 ZCZC W03 18 L13 Watching "Linux File System/Structure Explained!" youtube video
 ZCZC W03 20 L13 Watching "mounting and unmounting disks/partitions - Linux Command Line tutorial for forensics - 15" youtube video
+ZCZC W04 20 L32 Watching "Linux Crash Course - Understanding Memory and Swap Usage"
+ZCZC W04 8 L32 Watching "Processes in Linux/Unix"
+ZCZC W04 5 L32 Watching "Kill command in Linux with examples | How to Use Linux Kill Command"
+ZCZC W04 60 L14 Doing assignment 4
