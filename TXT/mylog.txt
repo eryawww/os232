@@ -39,3 +39,5 @@ ZCZC W04 20 L32 Watching "Linux Crash Course - Understanding Memory and Swap Usa
 ZCZC W04 8 L32 Watching "Processes in Linux/Unix"
 ZCZC W04 5 L32 Watching "Kill command in Linux with examples | How to Use Linux Kill Command"
 ZCZC W04 60 L14 Doing assignment 4
+ZCZC W05 40 L32 Watching "Introduction to Linux Memory Management"
+ZCZC W05 103 L15 Doing assignment 4
