@@ -87,3 +87,9 @@ Short 8 minutes video explaining pid and seeing user who run the process.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=-Lqai0oSpNU)" target="_blank"><img src="http://img.youtube.com/vi/-Lqai0oSpNU/0.jpg" width="240" height="180" border="10"/></a>
 
 short 5 minutes video explaining the implementation of kill command to kill process in linux.
+
+13. [MM101: Introduction to Linux Memory Management - Christopher Lameter, Jump Trading LLC](https://www.youtube.com/watch?v=wbi6IZDIv_4)
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=wbi6IZDIv_4)" target="_blank"><img src="http://img.youtube.com/vi/wbi6IZDIv_4/0.jpg" width="240" height="180" border="10"/></a>
+
+40 minutes video explaining theory of memory management in linux.
