@@ -42,3 +42,10 @@ ZCZC W04 60 L14 Doing assignment 4
 ZCZC W05 40 L32 Watching "Introduction to Linux Memory Management"
 ZCZC W05 103 L15 Doing assignment 5
 ZCZC W05 60 L15 Finishing Pop Quiz on assignment 5
+ZCZC W06 200 L02 CLASSROOM related
+ZCZC W06 120 L16 Assignment #06
+ZCZC W06 30 L05 Doing POP QUIZ
+ZCZC W06 90 L05 Studying Quiz
+ZCZC W06 30 L05 Quiz related including studying
+ZCZC W06 10 L03 Git github configuration
+ZCZC W06 40 L32 Searching and watching youtube material
