@@ -93,3 +93,16 @@ short 5 minutes video explaining the implementation of kill command to kill proc
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=wbi6IZDIv_4)" target="_blank"><img src="http://img.youtube.com/vi/wbi6IZDIv_4/0.jpg" width="240" height="180" border="10"/></a>
 
 40 minutes video explaining theory of memory management in linux.
+
+14. [Recording Week07: Process & Cnncurrency](https://www.youtube.com/watch?v=-pL2fAdb7Kwv)
+The youtube video to help learn further about Process & Cnncurrency.
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-pL2fAdb7Kw)" target="_blank"><img src="http://img.youtube.com/vi/-pL2fAdb7Kw/0.jpg" width="240" height="180" border="10"/></a>
+
+15. [How does KERNEL memory allocation work? Source Dive 004](https://www.youtube.com/watch?v=NC_qkXznvkg)
+Understanding how physical memory of the system is tracked, distributed, and returned to the kernel. A fascinatingly simple algorithm, which can be paradoxically kind of hard to understand!
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=NC_qkXznvkg)" target="_blank"><img src="http://img.youtube.com/vi/NC_qkXznvkg/0.jpg" width="240" height="180" border="10"/></a>
+
+
+
+
