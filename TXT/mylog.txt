@@ -49,3 +49,10 @@ ZCZC W06 90 L05 Studying Quiz
 ZCZC W06 30 L05 Quiz related including studying
 ZCZC W06 10 L03 Git github configuration
 ZCZC W06 40 L32 Searching and watching youtube material
+ZCZC W07 200 L02 CLASSROOM related
+ZCZC W07 120 L17 Assignment #07
+ZCZC W07 30 L05 Doing POP QUIZ
+ZCZC W07 90 L05 Studying Quiz
+ZCZC W07 30 L05 Quiz related including studying
+ZCZC W07 10 L03 Git github configuration
+ZCZC W07 40 L32 Searching and watching youtube material
