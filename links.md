@@ -103,6 +103,12 @@ Understanding how physical memory of the system is tracked, distributed, and ret
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NC_qkXznvkg)" target="_blank"><img src="http://img.youtube.com/vi/NC_qkXznvkg/0.jpg" width="240" height="180" border="10"/></a>
 
+16. [Deadlock in operating system](https://www.youtube.com/watch?v=onkWXaXAgbY)
+What, how, and why Deadlock operating system
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=onkWXaXAgbY)" target="_blank"><img src="http://img.youtube.com/vi/onkWXaXAgbY/0.jpg" width="240" height="180" border="10"/></a>
 
+17. [4 conditions of deadlock](https://www.youtube.com/watch?v=UVo9mGARkhQ)
+4 conditions of deadlocks
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=UVo9mGARkhQ)" target="_blank"><img src="http://img.youtube.com/vi/UVo9mGARkhQ/0.jpg" width="240" height="180" border="10"/></a>
