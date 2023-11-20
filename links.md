@@ -112,3 +112,11 @@ What, how, and why Deadlock operating system
 4 conditions of deadlocks
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=UVo9mGARkhQ)" target="_blank"><img src="http://img.youtube.com/vi/UVo9mGARkhQ/0.jpg" width="240" height="180" border="10"/></a>
+
+18. [LFS 12.0 Playlist](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315)
+
+Video playlist mengenai bagaimana cara build linux from Scratch
+
+19. [LFS Book for VirtualBox](https://www.linuxfromscratch.org/lfs/view/12.0/)
+
+Artikel penjelasan mengenai LFS menggunakan VirtualBox
